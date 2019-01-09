@@ -6,12 +6,12 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://revenger-wu.github.io"><b>Mr-Wu</b></a> Great dream makes great man !</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
+* !!!!!!Minimal, you can focus on your content
+* !!!!!!Responsive
+* !!!!!!Disqus integration
 * Syntax highlighting
 * Optional post image
 * Social icons

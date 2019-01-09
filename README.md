@@ -4,7 +4,7 @@
     
 ######(If you like this theme or using it, please give a :star: for motivation.)
 
-**[Mr-Wu](https://Revenger-Wu.github.io)** Great dream makes great man ! .
+**[Mr-Wu](https://Revenger-Wu.github.io)** Great dream makes great man ! 
 
 ## Features
 * !!!!!Minimal, you can focus on your content
